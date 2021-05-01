@@ -48,7 +48,7 @@ $ npx expo start
 
 Want to contribute? Great!
 
-Fork the repository from [here](https://github.com/tushark39/trap) 
+Fork the repository from [here](https://github.com/Priyanshu-hawk/TRAP-VIHAAN) 
 
 Then Make a clone, Open your favorite Terminal and run these commands.
 
